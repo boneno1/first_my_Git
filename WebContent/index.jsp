@@ -8,6 +8,7 @@
 		<style></style>
 	</head>
 	<body>
+		<form action="">
 		<h3>로그인 페이지</h3>
 		<table>
 			<tr>
@@ -24,6 +25,7 @@
 				</td>
 			</tr>
 		</table>
+		</form>
 	</body>
 	<script></script>
 </html>
